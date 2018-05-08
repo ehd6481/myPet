@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="back">
+        <item >0회</item>
+        <item >1회</item>
+        <item >2회</item>
+        <item >3회</item>
+        <item >4회</item>
+        <item >5회이상</item>
+    </string-array>
+    <string-array name="coro">
+        <item >0회</item>
+        <item >1회</item>
+        <item >2회이상</item>
+    </string-array>
+    <string-array name="canNel">
+        <item >0회</item>
+        <item >1회</item>
+        <item >2회이상</item>
+    </string-array>
+    <string-array name="gang">
+        <item >0회</item>
+        <item >1회</item>
+        <item >2회이상</item>
+    </string-array>
+    <string-array name="Cspacies">
+        <item >노르웨이</item>
+        <item >랙돌</item>
+        <item >브리티시</item>
+        <item >러시안블루</item>
+        <item >샤미즈</item>
+        <item >스핑크스</item>
+        <item >기타</item>
+
+    </string-array>
+    <string-array name="Cjong">
+        <item >0회</item>
+        <item >1회</item>
+        <item >2회</item>
+        <item >3회이상</item>
+    </string-array>
+    <string-array name="Dspacies">
+        <item >닥스훈트</item>
+        <item >달마시안</item>
+        <item >말티즈</item>
+        <item >비글</item>
+        <item >시바</item>
+        <item >시츄</item>
+        <item >진돗개</item>
+        <item >삽살개</item>
+        <item >기타</item>
+    </string-array>
+    <string-array name="Cback">
+        <item >0회</item>
+        <item >1회이상</item>
+
+    </string-array>
+    <string-array name="Cbok">
+        <item >0회</item>
+        <item >1회이상</item>
+
+    </string-array>
+
+    <string-array name="Cgang">
+    <item >0회</item>
+    <item >1회이상</item>
+    </string-array>
+</resources>
