@@ -1,4 +1,4 @@
-package com.example.mypet;
+/*package com.example.mypet;
 
 public class Mypet extends AppCompatActivity {
 
@@ -35,3 +35,4 @@ public class Mypet extends AppCompatActivity {
 
 
 }
+*/
