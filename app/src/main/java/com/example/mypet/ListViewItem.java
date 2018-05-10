@@ -1,3 +1,5 @@
+package com.example.mypet;
+
 import android.graphics.drawable.Drawable;
 
 public class ListViewItem {

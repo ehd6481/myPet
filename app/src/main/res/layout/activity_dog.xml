@@ -314,7 +314,7 @@
             </LinearLayout>
 
             <Button
-                android:id="@+id/btn_signupfinish"
+                android:id="@+id/btn_finish"
                 android:layout_width="285dp"
                 android:layout_height="50dp"
                 android:layout_gravity="center"

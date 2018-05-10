@@ -306,6 +306,18 @@ public class CatActivity extends Activity implements View.OnClickListener {
                     .setNegativeButton("취소", cancelListener)
                     .show();
         }
+        /* 여기 구현해야해
+        else if(v.getId() == R.id.btn_finish){
+            PHPRequest request = new PHPRequest("http://35.196.162.160/Cdis.php");
+            SharedPreferences prefs=getSharedPreferences("login",0);
+            //String user_id = prefs.getString("USER_ID",userid);
+            String pet_name=prefs.getString("PET_NAME","");
+            String pet_species=prefs.getString("PET_SPECIES","");
+            String pet_age=prefs.getString("PET_AGE","");
+            String pet_pic=prefs.getString("PET_PIC","");
+            String pet_gen=prefs.getString("PET_GEN","");
+            String pet_CorD=prefs.getString("PET_CORD","");
+        }*/
     }
 
     private void storeCropImage(Bitmap bitmap, String filePath) {
